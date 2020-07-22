@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hi, i'm Brayan!</b></h1>
+<h1 align= "center"><b>Hi, i'm Brayan!</b> 🇻🇪🇲🇽</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-salas-355734ab/)](https://www.linkedin.com/in/brayan-salas-355734ab/)
 
@@ -27,7 +27,6 @@ const basa = {
 **:man_technologist: Knowledges:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
@@ -45,7 +44,7 @@ const basa = {
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure)
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)]
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
 I ❤️ Backend Development!
