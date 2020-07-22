@@ -31,7 +31,6 @@ const basa = {
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
