@@ -27,25 +27,25 @@ const basa = {
 **:man_technologist: Knowledges:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)]
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)]
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)]
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS)]
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)]
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)]
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)]
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)]
-[![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure)]
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure)
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)]
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)]
 
 
 I ❤️ Backend Development!
