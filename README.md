@@ -24,9 +24,9 @@ const basa = {
 ```
 
 
-** :man_technologist: Knowledges:**
+**:man_technologist: Knowledges:** 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)]
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)]
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)]
