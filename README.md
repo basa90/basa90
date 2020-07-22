@@ -23,5 +23,9 @@ const basa = {
 };
 ```
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=basa90&show_icons=true" alt="basa90" /> 
+
+</p>
 
 I ❤️ Backend Development!
