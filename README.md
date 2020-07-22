@@ -6,7 +6,7 @@
 
 **🔭 Current Project:** Nebula 🚀
 
-**Favorite place:** 🏖️
+**🏖️ Favorite place:** The beach 🌊
 
 ```javascript
 const basa = {
