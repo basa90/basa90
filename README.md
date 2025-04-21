@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-salas-355734ab/)](https://www.linkedin.com/in/brayan-salas-355734ab/)
 
-**💼 Currently working as:** Backend developer at <a href="https://www.recaudia.com/" target="_blank"><b>Recaudia</b></a>
+**💼 Currently working as:** Backend developer
 
-**🔭 Current Project:** Nebula 🚀
+**🔭 Current Project:** GameCash 🚀
 
 **🏖️ Favorite place:** The beach 🌊
 
