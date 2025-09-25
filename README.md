@@ -14,7 +14,7 @@ const basa = {
     askMeAbout: ["web dev", "backend", "software development","food", "reggaeton"],
     technologies: {
         backend: {
-            js: ["node", "express"]
+            js: ["node", "express", "php"]
         },
         cloud_platform: ["Google Cloud", "Azure"],
         source_code_management: ["GitHub", "GitLab"],
